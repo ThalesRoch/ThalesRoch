@@ -1,7 +1,7 @@
 # ⚡ ¡Bem vindos ao meu perfil do GitHub! ⚡️
 Olá, meu nome é Thales e sou estudante de Tecnologia. No meu tempo livre, eu gosto de criar e melhorar projetos pessoais para seguir aprendendo e aperfeiçoando minhas habilidades.
 
-![](https://github.com/gimenabugiolachio/gimenabugiolachio/blob/main/GimenaBugiolachio-01.jpg)
+![](register.png)
 
 ## Sobre Mim 💫
 Atualmente estou estudando cursando Bacharelado em Sistema da Informação na ESAB e realizando um Bootcamp de DevOps. Eu me especializei como desenvolvedor Full Stack, desenvolvimento em Java e Angular, análise de dados e formação em dados e IA.
