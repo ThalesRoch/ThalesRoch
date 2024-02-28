@@ -1,4 +1,4 @@
-# ⚡ ¡Bem vindos ao meu perfil do GitHub! ⚡️
+# ⚡ Bem vindos ao meu perfil do GitHub! ⚡️
 Olá, meu nome é Thales e sou estudante de Tecnologia. No meu tempo livre, eu gosto de criar e melhorar projetos pessoais para seguir aprendendo e aperfeiçoando minhas habilidades.
 
 ![](register.png)
