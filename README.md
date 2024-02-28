@@ -15,7 +15,7 @@ Se você tiver dúvidas ou sugestões, entre em contato com meu amigo.
 
 - 📧 dev.ms.rocha@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/thales-rocha-dev) 
-- 📌 [Más info](https://linktr.ee/gimenabugiolachio) 
+- 📌 [Más info](https://linktr.ee/thalesroch) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesRoch&layout=compact&show_icons=true&theme=radical)](https://github.com/ThalesRoch/github-readme-stats)
 
